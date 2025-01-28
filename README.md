@@ -72,3 +72,18 @@ Based on the findings, the following recommendations were made:
 4. With retail and online channels performing well, businesses should **invest in e-commerce and digital marketing** to further drive online sales.  
 5. Companies should **increase marketing efforts and stock levels ahead of peak sales periods** (Q2 and Q3) while planning strategies to **boost sales during slower months**.  
 
+
+## Tool Used 
+- **Data Cleaning & Processing:** Microsoft **Excel**  
+- **Visualization & Analysis:** **Power BI**  
+
+
+
+## **Contact & Collaboration**  
+For inquiries, feedback, or collaboration opportunities:  
+- **Created by:** Daniel Tunde Abbey  
+- **Email:** [danielabbey020@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/daniel-tunde-abbey-8a5479261]  
+
+If you find this project useful, feel free to **star the repository** and contribute improvements! 🚀  
+
